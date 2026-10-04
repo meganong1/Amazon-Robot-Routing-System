@@ -1,5 +1,8 @@
 # Warehouse Robot Routing | Amazon Robotics Hackathon 2026
 
+### Submitted to Amazon Robotics Hackathon @ UBC
+### 🏆 2nd place out of 50 teams
+
 ## Problem statement
 
 Warehouse drive units must pick up inventory pods and deliver them to pick stations. The floor is a graph: aisles take different amounts of time to cross, and aisles and stations have capacity limits. Several robots may need the same route or station at once. Each pod's score falls the longer it waits for delivery; an undelivered pod earns no points.
